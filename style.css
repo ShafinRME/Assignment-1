@@ -81,9 +81,53 @@
 .third-part{
     display: flex;
     padding-left: 80px;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .htext3{
     font-size: 40px;
     font-family: 'Be Vietnam Pro', sans-serif;
+}
+.half-width3{
+    width: 50%;
+}
+.half-width3 img{
+    width: 70%;
+    padding-left: 10px;
+}
+.fourth-part{
+    display: flex;
+    padding-left: 80px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right -50% bottom 0px ;
+}
+.half-width4{
+    width: 50%;
+}
+.half-width4 img{
+    width: 70%;
+    padding-left: 10px;
+}
+.footer-main{
+    background-color: black;
+}
+.footerh{
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+
+.footerpart1{
+    color: white;
+}
+.footerpart2{
+    color: rgb(21, 218, 63);
+}
+.footer-para{
+    color: white;
+    text-align: center;
+    font-size: 25px;
 }
 
